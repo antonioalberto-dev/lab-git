@@ -1,0 +1,19 @@
+body {
+      background-color: #000;
+      color: rgb(127, 185, 224);
+      font-family: 'Fira Code';
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .clock {
+      font-size: 80px;
+      letter-spacing: 4px;
+      padding: 20px 40px;
+      border: 4px solid rgb(127, 185, 224);
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgb(221, 42, 212);
+    }
